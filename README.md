@@ -1,7 +1,7 @@
 # Smart Tourist Safety and Monitoring System
 
 **Project Name:** Smart Tourist Safety and Monitoring using AI, ML, Blockchain, and IoT  
-**Team Members:** Noorain Warsi, Pavan Sahu, Priya Patil  
+**Team Members:** Aarya Chabra, Aashish Pal, Naman Jaiswal ,Noorain Warsi, Pavan Sahu, Priya Patil  
 **Hackathon:** Smart India Hackathon 2025  
 
 ---
